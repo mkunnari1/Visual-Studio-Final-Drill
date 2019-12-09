@@ -1,2 +1,2 @@
 # Visual-Studio-Final-Drill
-Temp Repository For Class
+Repository for the final drill of the Visual Studio Course
